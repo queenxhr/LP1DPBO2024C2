@@ -1,4 +1,4 @@
-<img width="392" alt="TAMPILKAN" src="https://github.com/queenxhr/LP1DPBO2024C2/assets/135084798/900aaba4-07e9-435f-aab0-001e49f2cff8"># LP1DPBO2024C2
+# LP1DPBO2024C2
 
 # Janji
 Saya Ratu Syahirah Khairunnisa [2200978] 
@@ -57,17 +57,17 @@ Pada saat menjalankan program, cmd akan menampilkan menu pilihan query yang akan
 Setelah setiap operasi, pengguna akan kembali ke menu utama untuk memilih operasi selanjutnya atau keluar dari program.
 
 # Dokumentasi
-1. Tambah Anggota DPR
+# 1. Tambah Anggota DPR
    <img width="415" alt="TAMBAH" src="https://github.com/queenxhr/LP1DPBO2024C2/assets/135084798/2206e8f1-6565-4a5a-a09e-e29f6d1a2309">
 
-2. Ubah Anggota DPR
+# 2. Ubah Anggota DPR
    <img width="266" alt="UBAH" src="https://github.com/queenxhr/LP1DPBO2024C2/assets/135084798/2ac87303-57d4-4ead-beaa-83b6e9fbaff4">
 
-3. Hapus Anggota DPR
+# 3. Hapus Anggota DPR
    <img width="236" alt="HAPUS" src="https://github.com/queenxhr/LP1DPBO2024C2/assets/135084798/85d21d3a-f3ee-48e4-b6de-ff5ce9a4ca24">
 
-4. Tampilkan Anggota DPR
+# 4. Tampilkan Anggota DPR
    <img width="392" alt="TAMPILKAN" src="https://github.com/queenxhr/LP1DPBO2024C2/assets/135084798/4fbf8f07-c232-423b-a6d6-54834f57eebb">
 
-5. Keluar
+# 5. Keluar
    <img width="332" alt="KELUAR" src="https://github.com/queenxhr/LP1DPBO2024C2/assets/135084798/c08f67d1-ce78-4544-babd-9bf640c11535">
